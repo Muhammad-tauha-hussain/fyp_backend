@@ -1,0 +1,110 @@
+[
+    {
+        "city": "Lahore",
+        "costPerSquareFoot": 2000,
+        "costPerMarla": 450000,
+        "costPerKanal": 9000000,
+        "costPerYard": 2200,
+        "categories": { "plumbing": 15, "electrical": 12, "foundation": 30, "finishing": 20, "labor": 23 },
+        "areas": {
+            "DHA": { "costPerSquareFoot": 2500, "costPerMarla": 550000, "costPerKanal": 11000000, "costPerYard": 2700 },
+            "Gulberg": { "costPerSquareFoot": 2300, "costPerMarla": 500000, "costPerKanal": 10000000, "costPerYard": 2500 },
+            "Johar Town": { "costPerSquareFoot": 2100, "costPerMarla": 470000, "costPerKanal": 9500000, "costPerYard": 2300 }
+        }
+    },
+    {
+        "city": "Karachi",
+        "costPerSquareFoot": 2200,
+        "costPerMarla": 470000,
+        "costPerKanal": 9500000,
+        "costPerYard": 2400,
+        "categories": { "plumbing": 16, "electrical": 13, "foundation": 28, "finishing": 22, "labor": 21 },
+        "areas": {
+            "Clifton": { "costPerSquareFoot": 2700, "costPerMarla": 600000, "costPerKanal": 12000000, "costPerYard": 2900 },
+            "DHA": { "costPerSquareFoot": 2600, "costPerMarla": 580000, "costPerKanal": 11500000, "costPerYard": 2800 },
+            "Gulshan-e-Iqbal": { "costPerSquareFoot": 2300, "costPerMarla": 500000, "costPerKanal": 10000000, "costPerYard": 2500 }
+        }
+    },
+    {
+        "city": "Islamabad",
+        "costPerSquareFoot": 2500,
+        "costPerMarla": 500000,
+        "costPerKanal": 10000000,
+        "costPerYard": 2600,
+        "categories": { "plumbing": 14, "electrical": 11, "foundation": 32, "finishing": 18, "labor": 25 },
+        "areas": {
+            "F-7": { "costPerSquareFoot": 3000, "costPerMarla": 650000, "costPerKanal": 13000000, "costPerYard": 3100 },
+            "F-10": { "costPerSquareFoot": 2800, "costPerMarla": 600000, "costPerKanal": 12000000, "costPerYard": 2900 },
+            "G-11": { "costPerSquareFoot": 2600, "costPerMarla": 550000, "costPerKanal": 11000000, "costPerYard": 2700 }
+        }
+    },
+    {
+        "city": "Rawalpindi",
+        "costPerSquareFoot": 2100,
+        "costPerMarla": 460000,
+        "costPerKanal": 9200000,
+        "costPerYard": 2300,
+        "categories": { "plumbing": 15, "electrical": 12, "foundation": 29, "finishing": 21, "labor": 23 },
+        "areas": {
+            "Satellite Town": { "costPerSquareFoot": 2300, "costPerMarla": 500000, "costPerKanal": 10000000, "costPerYard": 2500 },
+            "Bahria Town": { "costPerSquareFoot": 2700, "costPerMarla": 580000, "costPerKanal": 11500000, "costPerYard": 2800 },
+            "DHA": { "costPerSquareFoot": 2600, "costPerMarla": 570000, "costPerKanal": 11300000, "costPerYard": 2750 }
+        }
+    },
+    {
+        "city": "Multan",
+        "costPerSquareFoot": 1800,
+        "costPerMarla": 400000,
+        "costPerKanal": 8500000,
+        "costPerYard": 2000,
+        "categories": { "plumbing": 17, "electrical": 14, "foundation": 27, "finishing": 19, "labor": 23 },
+        "areas": {
+            "Cantt": { "costPerSquareFoot": 2000, "costPerMarla": 450000, "costPerKanal": 9500000, "costPerYard": 2300 },
+            "Gulgasht": { "costPerSquareFoot": 1900, "costPerMarla": 420000, "costPerKanal": 8800000, "costPerYard": 2100 }
+        }
+    },
+    {
+        "city": "Faisalabad",
+        "costPerSquareFoot": 1900,
+        "costPerMarla": 420000,
+        "costPerKanal": 8700000,
+        "costPerYard": 2100,
+        "categories": { "plumbing": 15, "electrical": 13, "foundation": 28, "finishing": 20, "labor": 24 },
+        "areas": {
+            "D Ground": { "costPerSquareFoot": 2100, "costPerMarla": 480000, "costPerKanal": 9600000, "costPerYard": 2400 }
+        }
+    },
+    {
+        "city": "Peshawar",
+        "costPerSquareFoot": 2300,
+        "costPerMarla": 480000,
+        "costPerKanal": 9700000,
+        "costPerYard": 2500,
+        "categories": { "plumbing": 14, "electrical": 12, "foundation": 31, "finishing": 22, "labor": 21 },
+        "areas": {
+            "University Town": { "costPerSquareFoot": 2500, "costPerMarla": 520000, "costPerKanal": 10500000, "costPerYard": 2700 }
+        }
+    },
+    {
+        "city": "Quetta",
+        "costPerSquareFoot": 1700,
+        "costPerMarla": 380000,
+        "costPerKanal": 8200000,
+        "costPerYard": 1900,
+        "categories": { "plumbing": 18, "electrical": 15, "foundation": 26, "finishing": 17, "labor": 24 },
+        "areas": {
+            "Satellite Town": { "costPerSquareFoot": 1900, "costPerMarla": 420000, "costPerKanal": 8900000, "costPerYard": 2100 }
+        }
+    },
+    {
+        "city": "Sialkot",
+        "costPerSquareFoot": 1950,
+        "costPerMarla": 430000,
+        "costPerKanal": 8900000,
+        "costPerYard": 2150,
+        "categories": { "plumbing": 16, "electrical": 14, "foundation": 28, "finishing": 19, "labor": 23 },
+        "areas": {
+            "Cantt": { "costPerSquareFoot": 2100, "costPerMarla": 470000, "costPerKanal": 9500000, "costPerYard": 2300 }
+        }
+    }
+]
